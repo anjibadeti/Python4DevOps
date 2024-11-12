@@ -31,10 +31,6 @@
 - **Using Windows Package Manager (winget):**
   - Installing Python using command line.
 
-#### 2.3 Verifying Installation
-- Checking Python and pip versions.
-- Setting up virtual environments.
-
 ---
 
 ### **Module 3: Basic Python Syntax and Concepts**
