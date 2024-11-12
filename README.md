@@ -24,8 +24,6 @@
 - **Using Package Managers:**
   - Installation via `apt` (Debian/Ubuntu).
   - Installation via `yum` (CentOS/Fedora).
-- **Installing from Source:**
-  - Steps to download and compile Python from source.
   
 #### 2.2 Installing Python on Windows
 - **Using the Python Installer:**
